@@ -32,5 +32,5 @@ Designed for:
 - **Frontend:** HTML, CSS, React (optional)
 - **Backend:** Flask / Express.js (optional)
 
-## 📂 Project Structure
+
 
