@@ -28,9 +28,6 @@ Designed for:
 
 - **IBM Cloud / IBM SkillBuild**
 - **AI / NLP APIs**
-- **JavaScript / Python / Node.js** (Choose as per your tech stack)
-- **Frontend:** HTML, CSS, React (optional)
-- **Backend:** Flask / Express.js (optional)
 
 
 
